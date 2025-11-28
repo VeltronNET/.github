@@ -4,7 +4,7 @@
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/VeltronNET/VELTRON.NET" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/VeltronNET/VELTRON.NET" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/VeltronNET/VELTRON.NET" /> <img alt="Github License" src="https://img.shields.io/github/license/VeltronNET/VELTRON.NET" /></div></body>
 <body><div align="center">
 Welcome to the Veltron Network HQ operating on the planet Kepler-22B!
-We're a development group focusing on Linux, the development of the Venith Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
+We're a development group focusing on Linux, the development of the Veltron Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
 We also hope you can all stick around for the exciting future of the inclusive scene.
 
 #### All the fun people who've contributed:
