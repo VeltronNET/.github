@@ -14,5 +14,5 @@ We also hope you can all stick around for the exciting future of the inclusive s
 ### 📫 Check us out!
 [![Website](https://tinyurl.com/msxwhay4)](https://veltron.net)<br>
 [![Discord](https://tinyurl.com/mv7up4hw)](http://discord.go.veltron.net)<br>
-[![Odysee](https://img.shields.io/badge/MattTheTekie-EF1970?style=flat&logo=Odysee&logoColor=white)](https://odysee.com/@mattdoestech726:5)<br>
+[![Odysee](https://tinyurl.com/2s429vua)](http://odysee.go.velron.net)<br>
 </div></body>
