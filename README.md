@@ -5,8 +5,8 @@
 <body><div align="center">
 Welcome to the Veltron Network HQ operating on the planet Kepler-22B!
 We're a development group focusing on Linux, the development of the Veltron Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
-We also hope you can all stick around for the exciting future of the inclusive scene.
-<br>We are available on <a href="https://codeberg.org/VeltronNET">Codeberg</a>, and <a href="https://github.com/VeltronNET">GitHub</a>.
+We also hope you can all stick around for the exciting future of the inclusive scene.<br>
+We are available on <a href="https://codeberg.org/VeltronNET">Codeberg</a>, and <a href="https://github.com/VeltronNET">GitHub</a>.
 
 #### All the fun people who've contributed:
 <a href = "https://codeberg.org/org/VeltronNET/members">
