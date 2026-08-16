@@ -1,4 +1,4 @@
-<p align="center"><img src="https://codeberg.org/avatars/6b00393f2cbd7ed3799a4bac6d1061257d6a9a0a8b1486eab0ba301187860b97?size=200"></p>
+<p align="center"><img src="https://git.veltron.net/avatars/24de0803c9e8db87111bcae3b0536546aa7aeab832bffe6a7380a08ba028fd53"></p>
 <body><div align="center"><h1>Welcome to The Veltron Network!</h1></div></body>
 <body><div align="center">
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/VeltronNET/VELTRON.NET" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/VeltronNET/VELTRON.NET" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/VeltronNET/VELTRON.NET" /> <img alt="Github License" src="https://img.shields.io/github/license/VeltronNET/VELTRON.NET" /></div></body>
